@@ -19,12 +19,12 @@ function IpadCarousal() {
           <Card.Img
             variant="top"
             style={{ width: "80%", height: "300px", margin: "auto" }}
-            src="https://camo.githubusercontent.com/98a803e91fb0e963e04d9022582ba052e12e34bde89fb07b21835da776dafa1a/68747470733a2f2f692e706f7374696d672e63632f564c334e6b584b4c2f696e6469616e2d657870726573732d636c6f6e652d312e706e67"
+            src="https://user-images.githubusercontent.com/81471355/208062113-f45b5ded-e5c7-441b-a3d0-5979754e0e01.png"
           />
           <Card.Body>
             <Card.Title>
               {" "}
-              <span style={{ fontWeight: "bolder" }}>INDIAN EXPRESS CLONE</span>
+              <span style={{ fontWeight: "bolder" }}>Dot & key Clone</span>
             </Card.Title>
             <Card.Text
               style={{
