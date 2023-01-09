@@ -287,7 +287,7 @@ const Home = () => {
               username="vicky-ops"
               blockSize={20}
               fontSize={20}
-              transformData={selectLastHalfYear}
+              // transformData={selectLastHalfYear}
               color="#3e64ff"
             >
               <ReactTooltip delay={20} html />
