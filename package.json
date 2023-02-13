@@ -1,53 +1,20 @@
 {
-  "homepage": "https://ankit2341.github.io",
-  "name": "my-portfolio",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@chakra-ui/react": "^2.4.1",
-    "@emotion/react": "^11.10.5",
-    "@emotion/styled": "^11.10.5",
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "aos": "^2.3.4",
-    "bootstrap": "^5.2.3",
-    "framer-motion": "^7.6.12",
-    "github-calendar": "^2.3.1",
-    "react": "^18.2.0",
-    "react-bootstrap": "^2.6.0",
-    "react-dom": "^18.2.0",
-    "react-github-calendar": "^3.4.0",
-    "react-router-dom": "^6.4.3",
-    "react-scripts": "5.0.1",
-    "react-tooltip": "^4.5.1",
-    "swiper": "^8.4.5",
-    "web-vitals": "^2.1.4"
-  },
+  "name": "vicky-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicky-ops/vicky-ops.github.io.git"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  }
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicky-ops/vicky-ops.github.io/issues"
+  },
+  "homepage": "https://github.com/vicky-ops/vicky-ops.github.io#readme"
 }
