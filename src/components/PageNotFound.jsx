@@ -9,6 +9,7 @@ const PageNotFound = () => {
       fontFamily: "Roboto",
       height: "100vh",
       top: "-300px",
+      // width:"100vw",
       backgroundImage:
         "url(https://in.sugarcosmetics.com/desc-images/404bg.svg)",
       backgroundPosition: "center",
